@@ -2403,6 +2403,15 @@ ol {
   position: absolute;
   inset: 0%;
 }
+.hero_image_down {
+  pointer-events: none;
+  object-fit: contain;
+  border-radius: 2rem;
+  width: 100%;
+  height: 140%;
+  position: absolute;
+  inset: 0%;
+}
 .hero_image._404 {
   width: 23.375rem;
   height: 23.375rem;
@@ -3094,9 +3103,10 @@ ol {
   display: flex;
 }
 .footer-image {
-  width: 30.875rem;
+  width: 20.875rem;
   position: absolute;
   inset: 0% 0% auto auto;
+  margin-right: 10rem;
 }
 .footer {
   grid-column-gap: 0.25rem;
@@ -3798,7 +3808,6 @@ ol {
   height: 100%;
 }
 .members_image {
-  width: 14.3125rem;
   position: relative;
   top: -20%;
   right: -10%;
