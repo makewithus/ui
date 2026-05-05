@@ -2267,8 +2267,8 @@ ol {
 }
 .content.is--pricing-light.left.dark-blue {
   background-color: var(--blue);
-  background-image: url(../67b7586ee34d8a019d97d063_Изионизм-все-07.webp);
-  background-position: 100% 100%;
+  background-image: url(../image/flyticket.png);
+  background-position: 110% 100%;
   background-repeat: no-repeat;
   background-size: 20.6875rem;
   padding-right: 13.13rem;
@@ -2353,7 +2353,7 @@ ol {
   padding-right: 3.5rem;
 }
 .content.bg-pinkk {
-  background-image: url(../689c7d5e109cf3fc52611006_Frame 2087328494.webp);
+  background-image: url(../image/persontickt.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4407,18 +4407,17 @@ ol {
   background-size: contain;
   width: 100%;
   height: 100%;
-  position: absolute;
   inset: 0%;
 }
 .gift-image1.present {
-  background-image: url(../6744d23623409800d704c911_pricing-present-img.png);
+  background-image: url(../image/eggticket.png);
   height: 84.6%;
   top: 2.94rem;
   right: 5.53rem;
 }
 .gift-image1.davidof {
-  background-image: url(../679b96c716b3f0a07e26c58f_file 2.webp);
-  background-position: 100% 100%;
+  background-image: url(../image/uperticket.png);
+  background-position: 100% 10%;
   background-size: cover;
 }
 .gift-image2 {
@@ -4432,8 +4431,8 @@ ol {
   inset: 0%;
 }
 .gift-image2.davidoff {
-  background-image: url(../679b96c716b3f0a07e26c58f_file 2.webp);
-  background-position: 100% 100%;
+  background-image: url(../image/uperticket.png);
+  background-position: 100% 10%;
   background-size: cover;
 }
 .bot-popup-wrap {
